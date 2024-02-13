@@ -1,0 +1,15 @@
+📚: [?장] ?챕터명? - ?이름?
+
+🖇️ : [?장] ?챕터명? - 정리본 연결
+
+✏️ : [?장] ?챕터명? - 오탈자 수정
+
+📝 : 리드미 수정
+# ex) 📚: [1장] 데이터 타입 - 강지윤
+# ex) 🖇️ : [1장] 데이터 타입 - 정리본 연결
+# ex) ✏️ : [1장] 데이터 타입 - 오탈자 수정
+# ex) 📝 : 리드미 수정
+# ------------------------------
+# 커밋 메세지 적용 방법
+# $ git config --global core.editor "code --wait" # 기본에디터로 VScode 지정
+# $ git config commit.template .github/.GITHUB_MESSAGE_TEMPLATE.txt
