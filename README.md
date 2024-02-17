@@ -2,7 +2,7 @@
 
 # 📚 [코어 자바스크립트] 북 스터디 📚
 
-| <img src="./assets/woowa-ts-book.jpg" width="200px" /> |
+| <img src="./assets/코어자바스크립트.jpg" width="200px" /> |
 | ------------------------------------------------------ |
 
 ![STUDY_START](https://img.shields.io/badge/START-2024--02--13-blue)
