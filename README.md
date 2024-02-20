@@ -58,7 +58,7 @@
 <tr>
 <td align="center">2/21(수)</td>
 <th align="left">[1장] 데이터 타입</th>
-<td>정리</td><!-- 정리본.md <a>로 연결 -->
+<td><a href="https://github.com/Coding-Village-Protector/core-js/blob/main/%5B1%EC%9E%A5%5D%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85/%EC%9D%B4%EC%84%B1%EB%A0%B9.md">정리</a></td>
 <td><a href="https://github.com/Coding-Village-Protector/core-js/issues?q=label%3A%22%5B1%EC%9E%A5%5D+%EB%8D%B0%EC%9D%B4%ED%84%B0+%ED%83%80%EC%9E%85%22+is%3Aclosed">문제</a></td>
 <td>이성령</td>
 </tr>
