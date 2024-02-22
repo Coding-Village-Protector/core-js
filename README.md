@@ -80,7 +80,7 @@
 <th align="left">[3장] this</th>
 <td>정리</td><!-- 정리본.md <a>로 연결 -->
 <td><a href="https://github.com/Coding-Village-Protector/core-js/issues?q=label%3A%22%5B3%EC%9E%A5%5D+this%22+is%3Aclosed">문제</a></td>
-<td>이성령</td>
+<td>이예솔</td>
 </tr>
 <tr>
 <td align="center" colspan="5">4주차</td>
