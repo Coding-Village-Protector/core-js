@@ -78,7 +78,7 @@
 <tr>
 <td align="center">3/6(수)</td>
 <th align="left">[3장] this</th>
-<td>정리</td><!-- 정리본.md <a>로 연결 -->
+<td><a href="https://github.com/Coding-Village-Protector/core-js/blob/main/%5B3%EC%9E%A5%5D%20this/%EC%9D%B4%EC%98%88%EC%86%94.md">정리</a></td>
 <td><a href="https://github.com/Coding-Village-Protector/core-js/issues?q=label%3A%22%5B3%EC%9E%A5%5D+this%22+is%3Aclosed">문제</a></td>
 <td>이예솔</td>
 </tr>
