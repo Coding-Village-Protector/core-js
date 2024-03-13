@@ -88,7 +88,7 @@
 <tr>
 <td align="center">3/13(수)</td>
 <th align="left">[4장] 콜백 함수</th>
-<td>정리</td><!-- 정리본.md <a>로 연결 -->
+<td><a href="https://github.com/Coding-Village-Protector/core-js/blob/main/%5B4%EC%9E%A5%5D%20%EC%BD%9C%EB%B0%B1%20%ED%95%A8%EC%88%98/%EA%B0%95%EC%A7%80%EC%9C%A4.md">정리</a></td>
 <td><a href="https://github.com/Coding-Village-Protector/core-js/issues?q=label%3A%22%5B4%EC%9E%A5%5D+%EC%BD%9C%EB%B0%B1+%ED%95%A8%EC%88%98%22+is%3Aclosed">문제</a></td>
 <td>강지윤</td>
 </tr>
