@@ -98,7 +98,7 @@
 <tr>
 <td align="center">3/20(수)</td>
 <th align="left">[5장] 클로저</th>
-<td>정리</td><!-- 정리본.md <a>로 연결 -->
+<a href="https://github.com/Coding-Village-Protector/core-js/blob/main/%5B5%EC%9E%A5%5D%20%ED%81%B4%EB%A1%9C%EC%A0%80/%EC%9D%B4%EC%97%90%EC%8A%A4%EB%8D%94.md"><td>정리</td></a>
 <td><a href="https://github.com/Coding-Village-Protector/core-js/issues?q=label%3A%22%5B5%EC%9E%A5%5D+%ED%81%B4%EB%A1%9C%EC%A0%80%22+is%3Aclosed">문제</a></td>
 <td>이에스더</td>
 </tr>
