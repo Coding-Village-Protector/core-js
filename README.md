@@ -106,7 +106,7 @@
 <td align="center" colspan="5">6주차</td>
 </tr>
 <tr>
-<td align="center">3/27(수)</td>
+<td align="center">4/3(수)</td>
 <th align="left">[6장] 프로토타입</th>
 <td>정리</td><!-- 정리본.md <a>로 연결 -->
 <td><a href="https://github.com/Coding-Village-Protector/core-js/issues?q=label%3A%22%5B6%EC%9E%A5%5D+%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%22+is%3Aclosed">문제</a></td>
@@ -116,7 +116,7 @@
 <td align="center" colspan="5">7주차</td>
 </tr>
 <tr>
-<td align="center">4/3(수)</td>
+<td align="center">4/10(수)</td>
 <th align="left">[7장] 클래스</th>
 <td>정리</td><!-- 정리본.md <a>로 연결 -->
 <td><a href="https://github.com/Coding-Village-Protector/core-js/issues?q=label%3A%22%5B7%EC%9E%A5%5D+%ED%81%B4%EB%9E%98%EC%8A%A4%22+is%3Aclosed">문제</a></td>
