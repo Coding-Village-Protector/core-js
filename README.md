@@ -108,7 +108,7 @@
 <tr>
 <td align="center">3/27(수)</td>
 <th align="left">[6장] 프로토타입</th>
-<td>정리</td><!-- 정리본.md <a>로 연결 -->
+<td><a href="https://github.com/Coding-Village-Protector/core-js/blob/main/%5B6%EC%9E%A5%5D%20%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85/%EC%9D%B4%EC%98%88%EC%86%94.md">정리</a></td>
 <td><a href="https://github.com/Coding-Village-Protector/core-js/issues?q=label%3A%22%5B6%EC%9E%A5%5D+%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%22+is%3Aclosed">문제</a></td>
 <td>이예솔</td>
 </tr>
