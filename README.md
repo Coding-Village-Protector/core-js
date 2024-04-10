@@ -118,7 +118,7 @@
 <tr>
 <td align="center">4/10(수)</td>
 <th align="left">[7장] 클래스</th>
-<td>정리</td><!-- 정리본.md <a>로 연결 -->
+<td><a href="https://github.com/Coding-Village-Protector/core-js/blob/main/%5B7%EC%9E%A5%5D%20%ED%81%B4%EB%9E%98%EC%8A%A4/%EC%B1%84%ED%95%98%EC%9D%80.md">정리</a></td>
 <td><a href="https://github.com/Coding-Village-Protector/core-js/issues?q=label%3A%22%5B7%EC%9E%A5%5D+%ED%81%B4%EB%9E%98%EC%8A%A4%22+is%3Aclosed">문제</a></td>
 <td>채하은</td>
 </tr>
